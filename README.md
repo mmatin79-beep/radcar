@@ -2,6 +2,8 @@
 
 ## لینک
 
+> لینک وب پس از فعال‌سازی GitHub Pages در Settings → Pages → Deploy from a branch → main / (root) در دسترس خواهد بود.
+
 - Web: https://mmatin79-beep.github.io/radcar/
 - GitHub: https://github.com/mmatin79-beep/radcar
 
